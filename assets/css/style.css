@@ -1,0 +1,4 @@
+#errorCheckLoginUnique, #errorCheckMailUnique{
+    display: none;
+    color: red;
+}
